@@ -50,7 +50,7 @@ class AboutView extends ConsumerWidget {
         ListItem(
           title: const Text('Telegram'),
           onTap: () {
-            dialogs.openUrl('https://t.me/FlClash');
+            dialogs.openUrl('https://t.me/OrakzaiVPN');
           },
           trailing: const Icon(Icons.launch),
         ),
@@ -76,16 +76,6 @@ class AboutView extends ConsumerWidget {
 
   List<Widget> _buildContributorsSection(AppLocalizations appLocalizations) {
     const contributors = [
-      Contributor(
-        avatar: 'assets/images/avatar/june2.jpg',
-        name: 'June2',
-        link: 'https://t.me/Jibadong',
-      ),
-      Contributor(
-        avatar: 'assets/images/avatar/arue.jpg',
-        name: 'Arue',
-        link: 'https://t.me/xrcm6868',
-      ),
     ];
     return generateSection(
       separated: false,
