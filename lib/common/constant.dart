@@ -9,10 +9,10 @@ import 'package:fl_clash/enum/enum.dart';
 import 'package:fl_clash/models/models.dart';
 import 'package:material_ui/material_ui.dart';
 
-const appName = 'FlClash';
+const appName = 'Orakzai VPN';
 const appHelperService = 'FlClashHelperService';
 const coreManifestName = 'manifest.json';
-const coreName = 'clash.meta';
+const coreName = ''Orakzai.meta';
 const browserUa =
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 const packageName = 'com.follow.clash';
