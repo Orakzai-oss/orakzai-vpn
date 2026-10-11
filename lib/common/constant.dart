@@ -12,7 +12,7 @@ import 'package:material_ui/material_ui.dart';
 const appName = 'Orakzai VPN';
 const appHelperService = 'FlClashHelperService';
 const coreManifestName = 'manifest.json';
-const coreName = ''Orakzai.meta';
+const coreName = ''FlClash.meta';
 const browserUa =
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 const packageName = 'com.follow.clash';
